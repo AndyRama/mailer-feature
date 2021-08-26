@@ -25,6 +25,7 @@ gem 'redis', '~> 4.0'
 # Use letter opener
 gem 'letter_opener', group: :development
 
+gem 'gibbon'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
